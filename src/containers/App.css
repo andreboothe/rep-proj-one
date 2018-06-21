@@ -1,0 +1,43 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.input-section{
+  display: flex;
+  flex-direction: row;
+  padding-top: 5em;
+  margin-bottom: 5em; 
+}
+
+#my-frame{
+  display: inline;
+  position: relative;
+
+
+}
+
+#confirm-btn{
+  margin-top: .5em;
+}
+
+.extra-features{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+#extracted-content{
+  font-weight: 500;
+  font-size: 200%;
+  margin: .5em;
+}
+
+.my-btn{
+  height: 30px;
+  
+}
